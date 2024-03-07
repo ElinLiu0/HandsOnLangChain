@@ -8,3 +8,4 @@
 - [第一章](https://github.com/ElinLiu0/HandsOnLangChain/tree/master/chap1)
 - [第二章](https://github.com/ElinLiu0/HandsOnLangChain/tree/master/chap2)
 - [第三章](https://github.com/ElinLiu0/HandsOnLangChain/tree/master/chap3)
+- [第四章](https://github.com/ElinLiu0/HandsOnLangChain/tree/master/chap4)
